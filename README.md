@@ -11,11 +11,6 @@ and efficient concurrency handling.
   </div>
 
 
-Watch the video 👇
-
-<a href="https://drive.google.com/file/d/1HA7-jhe63TA3GfF30_cFwk-2S4BZQOIh/view">
-    <img src="https://drive.google.com/uc?export=view&id=157XnzredVHGA71wu9-cSrrs5rYgjCpOf" width="320" height="240" />
-</a>
 
 ## 📋 <a name="table">Table of Contents</a>
 
